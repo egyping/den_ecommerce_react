@@ -1,0 +1,7 @@
+React setup 
+npx create-react-app frontend
+yarn start
+
+
+> code_local/den_ecommerce_react/den_ecommerce_react/frontend
+npm install react-router-dom react-router-bootstrap
